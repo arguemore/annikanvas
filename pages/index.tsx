@@ -30,11 +30,11 @@ export default function Index() {
       <Container className={styles.section}>
         <div className={styles.heroInfo}>
           <h1 className={styles.heroTitle}>
-            Kickstart your collaborative&nbsp;app
+            Docs, Whiteboards, and Dashboards for the Anniklients
           </h1>
           <p className={styles.heroLead}>
-            Use the Liveblocks Starter Kit to build your document-based
-            collaborative app in&nbsp;minutes.
+            In-house central database for the Algomore Tech
+            and Annikreative Design clientele.
           </p>
         </div>
         <div className={styles.heroActions}>
@@ -42,7 +42,7 @@ export default function Index() {
             Sign in
           </Button>
           <LinkButton
-            href="https://liveblocks.io/docs/guides/nextjs-starter-kit"
+            href="https://bento.com/arguemore"
             target="_blank"
             variant="secondary"
           >
