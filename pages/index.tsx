@@ -33,8 +33,8 @@ export default function Index() {
             Docs, Whiteboards, and Dashboards for the Anniklients
           </h1>
           <p className={styles.heroLead}>
-            In-house central database for the Algomore Tech  
-            and Annikreative Design clientele.
+            In-house central database for the Algomore Tech
+            and Annikreative Design clientele.  
           </p>
         </div>
         <div className={styles.heroActions}>
