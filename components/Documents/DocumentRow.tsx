@@ -48,7 +48,7 @@ export function DocumentRow({
       groupIds: session.user.info.groupIds,
     });
     setCurrentUserAccess(access);
-  }, [session, accesses]);
+  }, [session, accesses, accesses.groups]);
 
   // TODO swap to useSWR if enough time
   useEffect(() => {

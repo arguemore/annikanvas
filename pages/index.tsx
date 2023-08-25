@@ -30,6 +30,7 @@ export default function Index() {
       <Container className={styles.section}>
         <div className={styles.heroInfo}>
           <h1 className={styles.heroTitle}>
+            
             Docs, Whiteboards, and Dashboards for the Anniklients
           </h1>
           <p className={styles.heroLead}>
